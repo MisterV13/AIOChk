@@ -32,7 +32,7 @@ INSTALAMOS PHP y GIT para clonar el repositorio...
 
 > 3. pkg install php git -y
 
-> 4. git clone https://github.com/Juni0r007/AIOChk.git
+> 4. git clone https://github.com/MisterV13/AIOChk-mv13.git
 
 > 5. ls
 
@@ -71,5 +71,5 @@ Son cuentas  obtenidas con Sentry MBA y PasteBin [Termux pero no todas] en si es
 
 ## Anexos
 
-- Generador de combos en Termux > https://github.com/Juni0r007/PasTerm
+- Generador de combos en Termux > https://github.com/MisterV13/PasTerm-mv13
 "# AIOChk-MV13" 
